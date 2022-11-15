@@ -5,6 +5,7 @@ public class App {
 		System.out.println("애플리케이션 실행");
 		System.out.println("실행1");
 		System.out.println("branch1-실행1");
+		System.out.println("실행2");
 		
 	}
 
